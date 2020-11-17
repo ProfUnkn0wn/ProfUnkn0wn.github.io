@@ -1,6 +1,7 @@
 # 闇野雲
-Welcome to my homepage.
 
+![闇野雲](img/img.png)
+Welcome to my homepage.
 
 ## Gateways
 
