@@ -15,4 +15,5 @@
 | :---: | :---: |
 | Twitter | 闇野雲 [`@ProfUnkn0wn`](https://twitter.com/ProfUnkn0wn) |
 | GitHub | 闇野雲 [`@ProfUnkn0wn`](https://github.com/ProfUnkn0wn) |
+| Instagram | 闇野雲 [`@profunkn0wn`](https://www.instagram.com/profunkn0wn/) |
 | Studyplus | [`闇野雲`](https://www.studyplus.jp/users/af90e90d2f774426ba6a83637756c9ab) |
