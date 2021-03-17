@@ -13,6 +13,7 @@
 | service | link |
 | :---: | :---: |
 | Twitter | 闇野雲 [`@ProfUnkn0wn`](https://twitter.com/ProfUnkn0wn) |
+| Youtube | [`闇野雲`](https://www.youtube.com/channel/UCPclbcqXZsJfNeUEPAIk6AQ) |
 | GitHub | 闇野雲 [`@ProfUnkn0wn`](https://github.com/ProfUnkn0wn) |
 | Instagram | 闇野雲 [`@profunkn0wn`](https://www.instagram.com/profunkn0wn/) |
 | はてなブログ | [`闇野雲の備忘録`](https://profunkn0wn.hatenablog.com/) |
