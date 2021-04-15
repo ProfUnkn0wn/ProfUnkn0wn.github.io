@@ -18,3 +18,4 @@
 | Instagram | 闇野雲 [`@profunkn0wn`](https://www.instagram.com/profunkn0wn/) |
 | はてなブログ | [`闇野雲の備忘録`](https://profunkn0wn.hatenablog.com/) |
 | Studyplus | [`闇野雲`](https://www.studyplus.jp/users/af90e90d2f774426ba6a83637756c9ab) |
+| 小説家になろう | [`闇野雲`](https://mypage.syosetu.com/2157309/) |
