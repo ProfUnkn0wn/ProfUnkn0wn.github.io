@@ -4,7 +4,7 @@
 
 ## 趣味とか
 【学問】 情報 / 数学 / 物理 / 哲学  
-【アニメ】 Serial experiments lain / 攻殻機動隊   
+【アニメ】 Serial experiments lain / 攻殻機動隊 / コードギアス / 中二病でも恋がしたい！
 【音楽】 J-CORE / Gabber / Hardcore  
 【その他】 写真
 
